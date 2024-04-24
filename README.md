@@ -1,3 +1,3 @@
 Rock Paper Scissors game
 
-https://github.com/razumtsev/rps
+https://razumtsev.github.io/rps/
